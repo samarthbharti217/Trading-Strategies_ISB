@@ -1,2 +1,2 @@
 # Trading-Strategies_ISB
-Implementing US trading strategies on Indian Markets.
+Implementing popular trading strategies from the United States on Indian Markets to evaluate performance
